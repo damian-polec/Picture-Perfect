@@ -1,0 +1,21 @@
+{
+  "name": "kodilla-first-extra-project",
+  "version": "1.0.0",
+  "description": "additional project for kodilla.com front-end course",
+  "main": "index.js",
+  "scripts": {
+    "test": "project-1-test"
+  },
+  "keywords": [
+    "project-1"
+  ],
+  "author": "Damian Polec",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
